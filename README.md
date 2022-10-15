@@ -21,3 +21,4 @@ Please note that sentinel data can be downloaded in several resolution (10m, 20m
 3. All passages are displayed for each orbit, with info regarding the date of passage and the % of cloud coverage
 4. Users are asked to select one passage for each orbit
 5. The script then makes a mosaic of selected passages to create the entire tile
+6. Output tiles are saved in the output folder
