@@ -4,7 +4,7 @@
 
 This python script makes Copernicus Sentinel 2 data download easy. This script only downloads True Colour Images (TCI), which is faster and better for the planet, but might not be useful for those wanting to download all layers (ex: red/green/blue layers).
 
-Sentinel 2 data uses a classification system that splits the world map in many tiles. For more information, including on how to know on which tile a specific location is, see here : https://eatlas.org.au/data/uuid/f7468d15-12be-4e3f-a246-b2882a324f59.
+Sentinel 2 data uses a classification system that splits the world map into many tiles. For more information, including on how to know on which tile a specific location is, see here : https://eatlas.org.au/data/uuid/f7468d15-12be-4e3f-a246-b2882a324f59.
 
 However, Sentinel 2 satellites often do not capture an entire tile on their passage, and several passages (with different orbits) are needed to capture the entire tile, see example below.
 
