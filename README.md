@@ -12,7 +12,7 @@ However, Sentinel 2 satellites often do not capture an entire tile on their pass
 | --- | --- | --- |
 | ![alt text](https://github.com/memoirevive/lepipelinedepatrick/blob/main/example/36NUH_35.jpg?raw=true) | ![alt text](https://github.com/memoirevive/lepipelinedepatrick/blob/main/example/36NUH_78.jpg?raw=true) | ![alt text](https://github.com/memoirevive/lepipelinedepatrick/blob/main/example/36NUH.jpg?raw=true) |
 
-Please note that sentinel data can be downloaded in several resolution (10m, 20m, 60m). 10m means 1px = 10m. 10m is the most precise, but also the largest files. 
+Sentinel data can be downloaded in several resolution (10m, 20m, 60m). 10m means 1px = 10m. 10m is the most precise, but also the largest files. 
 
 ## How to use
 
