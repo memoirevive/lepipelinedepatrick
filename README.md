@@ -16,7 +16,7 @@ Sentinel data can be downloaded in several resolution (10m, 20m, 60m). 10m means
 
 ## How to use
 
-1. In params.py, user can select the tiles for which satellite imagery must be downloaded, the resolution, and a given time period (ex: tile 36NUH, 60m, between 1 July 2022 and now). User can then run main.py.
+1. In params.py, user must select the tiles for which satellite imagery must be downloaded, the resolution, and a given time period (ex: tile 36NUH, 60m, between 1 July 2022 and now). Other parameters are available. User can then run main.py.
 2. For each tile, the script fetches all satellites passages within this time period (for all orbits covering the tile), and display a list of all passages for each orbit, with info regarding the date of passage and the % of cloud coverage
 3. User is asked to select one passage for each orbit
 4. For each tile, the script then makes a mosaic of selected passages to create the entire tile, and save it in the output folder
