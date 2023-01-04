@@ -42,7 +42,7 @@ tiles = [
 
 # for each tile, show shots taken between begin and end date
 # this allows user to select shots (recent versus little cloud coverage)
-begin_date = '20220701'
+begin_date = '20220901'
 end_date = 'NOW'
 
 # resolution  : choose between 10 (1px = 10 meters), 20 and 60
